@@ -1,4 +1,4 @@
-## Hi There, We're EinStack 👋
+## 👋 We're EinStack 
 
 #### 🐙 EinStack builds developer tools to help build production-grade LLM applications.
 
