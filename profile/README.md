@@ -1,6 +1,6 @@
 ## 👋 We're EinStack 
 
-#### 🐙 EinStack builds developer tools to help build production-grade LLM applications.
+#### 🐙 EinStack builds developer tools to help scale production-grade LLM applications.
 
 #### 🌈 Contribution guidelines - Review the contribution guidlines in the specific project.
 
