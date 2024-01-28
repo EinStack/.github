@@ -2,7 +2,8 @@
     🏗️ Reliable Infrastructure for Your GenAI Apps
 </h1>
 
-<img src="../images/EinStack-Banner.png" alt="EinStack.ai Logo" />
+<img src="https://github.com/EinStack/.github/raw/main/images/EinStack-Banner.png" alt="EinStack.ai Logo" />
+
 ---
 
 <p align="center">
