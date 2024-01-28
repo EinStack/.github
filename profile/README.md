@@ -1,7 +1,21 @@
-## 👋 We're EinStack 
+<h1 align="center">
+    🏗️ Reliable Infrastructure for Your GenAI Apps
+</h1>
 
-#### 🫎 EinStack builds developer tools to help scale production-grade LLM applications.
+<img src="../images/EinStack-Banner.png" alt="EinStack.ai Logo" />
+---
 
-#### 🦙 Contribution guidelines - Review the contribution guidlines in the specific project.
+<p align="center">
+    EinStack.ai builds infrastructure to help scale production-grade LLM applications.
+</p>
 
-#### 🦘 Useful resources - Join [Discord](https://discord.gg/z4DmAbJP) for real-time discussion
+<p align="center">
+  <a href="https://glide.einstack.ai/get-started/introduction">Learn More 📚</a>
+  ■
+  <a href="https://glide.einstack.ai/get-started/docker">Get Started 🚀</a>
+  ■
+  <a href="https://discord.gg/Es5bEhMrRM">Join Community 👥</a>
+  ■
+  <a href="mailto:contact@einstack.ai">Contact Us 👋</a>
+</p>
+
